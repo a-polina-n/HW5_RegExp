@@ -1,7 +1,7 @@
 # HW 5. Регулярные выражения
 
 
- [САУНДТРЕК первый](https://music.yandex.ru/album/24762/track/246376?utm_source=web&utm_medium=copy_link) и второй(https://music.yandex.ru/album/14617752/track/75859972?utm_source=web&utm_medium=copy_link) для этой работы. приятной проверки!!!!
+ [САУНДТРЕК первый](https://music.yandex.ru/album/24762/track/246376?utm_source=web&utm_medium=copy_link) и [второй](https://music.yandex.ru/album/14617752/track/75859972?utm_source=web&utm_medium=copy_link) для этой работы. приятной проверки!!!!
 
 
 Регулярные выражения - одна из самых важных тем в биоинформатике. Например, для парсинга всяких файлов. Очень часто их используют в `grep` или `sed` чтобы добиваться каких-то сложных результатов. Ну а в этом домашнем задании попрактикуемся с какими-нибудь базовыми вещами.
